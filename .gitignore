@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Python_practice.py
+counties.py
+election_results.csv
+skilldrillelection.py
+voting_data.py
+.vscode/launch.json
