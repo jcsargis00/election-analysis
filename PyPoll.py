@@ -70,7 +70,7 @@ for candidate_name in candidate_votes:
          winning_percentage = vote_percentage
          # And, set the winning_candidate equal to the candidate's name.
          winning_candidate = candidate_name
-    #  To do: print out the winning candidate, vote count and percentage to
+    #  To do: print out the winning candidate, vote count and percentage to 
 #   terminal.
     print(f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
 
