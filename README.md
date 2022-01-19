@@ -10,5 +10,6 @@ Specific data requested is:
 
 
 ## Election-Audit Summary
-A summary of the Election-Audit is below, showing the total number and percentage of votes for each candidate, plus a breakdown by county (including the winning county) and a summary of the winner's vote count and percentage .
-![Election Results]https://github.com/jcsargis00/election-analysis/blob/main/analysis/electionresultcmdline.PNG
+A summary of the Election-Audit is below, showing the total number and percentage of votes for each candidate, plus a breakdown by county (including the winning county) and a summary of the winner's vote count and percentage.
+#
+![Election Results](https://github.com/jcsargis00/election-analysis/blob/main/analysis/electionresultcmdline.PNG)
