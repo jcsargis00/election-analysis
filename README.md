@@ -1,6 +1,6 @@
 # Election Analysis
 ## Purpose
-The purpose of this project is to provide additional voter information to the election commission on behalf of Seth and Tom.   This technical analysis will start by modifying the candidate voting program and using data from the voting cvs file. New code was added to extract and report additional information pertaining to county voting results. A written analysis of the Election Audit (README.md) has been provided for the election commission with this report.
+The purpose of this project is to provide additional voter information to the election commission to complete the audit.   The technical analysis started by modifying the candidate voting program and using data from the voting cvs file. New code was added to extract and report additional information pertaining to county voting results. A written analysis of the Election Audit (README.md) has been provided for the election commission with this report.
 Specific data requested is:
 * The voter turnout for each county
 * The percentage of votes from each county out of the total county
