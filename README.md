@@ -6,6 +6,7 @@ Specific data requested is:
 * The percentage of votes from each county out of the total county
 * The county with the highest turnout
 * Winning candidate, vote count, percentage to be reported at the end of the new report
+#
 The election commission has also requested a written analysis of the Election Audit (README.md)
 ## Election-Audit Results
 ### Overview of Methodology Used
