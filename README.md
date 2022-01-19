@@ -1,4 +1,4 @@
-# election-analysis
+# Election Analysis
 ## Purpose
 The purpose of this project is to provide additional voter information to the election commission on behalf of Seth and Tom.   This technical analysis will start by using the candidate voting program and voting cvs file and add new subroutines to extract and report additional information pertaining to county voting results. The election commission has also requested a written analysis of the Election Audit (README.md)
 Specific data requested is:
